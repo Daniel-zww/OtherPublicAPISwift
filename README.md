@@ -1,6 +1,6 @@
 # OtherPublicAPISwift
-
-github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)
+[![Test Status](https://travis-ci.org/douban/rexxar-ios.svg?branch=master)](https://travis-ci.org/douban/rexxar-ios)
+[![Language](https://img.shields.io/badge/language-Swift-blue.svg)](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)  
 
 [Objective-C版本点击这里](https://github.com/Daniel-zww/OtherPublicAPI)
 
